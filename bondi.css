@@ -1,0 +1,26 @@
+/*start subscribe.*/
+.subscribe{
+    background-color:aquamarine(233, 174,87);
+}
+/*end subscribe.*/
+/*start subscribe*/
+.subscribe{
+    background-color: blueviolet;
+}
+.subscribe input[type="text"].{
+    border-color: none;
+    border-bottom: 1px solid wheat;
+}
+subscribe input[type="text"].focus {
+    outline: none;
+}
+.subscribe ::placeholder {
+    color: wheat;
+
+}
+.subscribe input[type="submit"]{
+    background-color: var(--dark-color);
+    color: yellow;
+
+}
+/*End subscribe*/
